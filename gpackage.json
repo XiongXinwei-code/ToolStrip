@@ -1,0 +1,7 @@
+{
+	"license": "ISC",
+	"lvversion": ">=19",
+	"name": "mgi_toolstrip",
+	"private": true,
+	"version": "0.1.0"
+}
